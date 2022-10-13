@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\work\DockerTest\Docker\Docker\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-10-13T17:58:02.9266223Z;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,7 @@
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\Docker.exe
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\Docker.dll
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\Docker.deps.json
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\Docker.runtimeconfig.json
+C:\work\DockerTest\Docker\Docker\obj\Release\net6.0\PubTmp\Out\Docker.pdb
